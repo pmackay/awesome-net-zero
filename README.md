@@ -37,9 +37,7 @@ A curated list of awesome resources that contribute to achieving carbon net zero
 * [Friends of the Earth](https://friendsoftheearth.uk/)
 * [Extinction Rebellion](https://rebellion.earth/) - rebelling against the current systems leading us to extinction.
 * [Fridays For Future](https://www.fridaysforfuture.org/) - a movement of climate strikes begun by [Greta Thunberg](https://twitter.com/GretaThunberg) in August 2018.
-### People
 
-* [Greta Thunberg]
 
 ## Books
 
