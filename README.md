@@ -2,22 +2,22 @@
 
 A curated list of awesome resources that contribute to achieving carbon net zero. This isn't just an awesome list, it's about an awesome goal.
 
-      * [Introduction](#introduction)
-      * [Activism](#activism)
-         * [Articles and books](#articles-and-books)
-         * [Campaigning groups](#campaigning-groups)
-         * [People](#people)
-      * [Books](#books)
-      * [Business](#business)
-         * [Articles and books](#articles-and-books-1)
-      * [Community](#community)
-      * [Events](#events)
-      * [Footprint calculators](#footprint-calculators)
-      * [Politics](#politics)
-         * [UK](#uk)
-      * [Roadmaps](#roadmaps)
-         * [Green New Deals](#green-new-deals)
-      * [Contributing](#contributing)
+* [Introduction](#introduction)
+* [Activism](#activism)
+   * [Articles and books](#articles-and-books)
+   * [Campaigning groups](#campaigning-groups)
+   * [People](#people)
+* [Books](#books)
+* [Business](#business)
+   * [Articles and books](#articles-and-books-1)
+* [Community](#community)
+* [Events](#events)
+* [Footprint calculators](#footprint-calculators)
+* [Politics](#politics)
+   * [UK](#uk)
+* [Roadmaps](#roadmaps)
+   * [Green New Deals](#green-new-deals)
+* [Contributing](#contributing)
 
 ## Introduction
 
@@ -34,6 +34,7 @@ A curated list of awesome resources that contribute to achieving carbon net zero
 
 ### Campaigning groups
 
+* [The Climate Reality Project](https://www.climaterealityproject.org/) - catalysing urgent action at every level of society, founded by Al Gore.
 * [Friends of the Earth](https://friendsoftheearth.uk/)
 * [Extinction Rebellion](https://rebellion.earth/) - rebelling against the current systems leading us to extinction.
 * [Fridays For Future](https://www.fridaysforfuture.org/) - a movement of climate strikes begun by [Greta Thunberg](https://twitter.com/GretaThunberg) in August 2018.
@@ -60,13 +61,13 @@ A curated list of awesome resources that contribute to achieving carbon net zero
 
 ## Events
 
-[Countdown (TED)](https://countdown.ted.com/) - building collaboration around 5 key themes during 2020: power, built environment, transport, food, nature, culminating in a single day event on 10.10.2020.
-[Seed Festival](https://www.hawkwoodcollege.co.uk/seed-festival/) - brings together ~100 activists to discuss and learn about environmental challenges.
+* [Countdown (TED)](https://countdown.ted.com/) - building collaboration around 5 key themes during 2020: power, built environment, transport, food, nature, culminating in a single day event on 10.10.2020.
+* [Seed Festival](https://www.hawkwoodcollege.co.uk/seed-festival/) - brings together ~100 activists to discuss and learn about environmental challenges.
 
 
 ## Footprint calculators
 
-[CarbonIndependent.org](https://www.carbonindependent.org/) - a good compromise between easy to use and detailed, with explanations of the data sources.
+* [CarbonIndependent.org](https://www.carbonindependent.org/) - a good compromise between easy to use and detailed, with explanations of the data sources.
 
 
 ## Politics
