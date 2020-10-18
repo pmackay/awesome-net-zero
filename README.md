@@ -68,12 +68,13 @@ A curated list of awesome resources that contribute to achieving carbon net zero
 ## Footprint calculators
 
 * [CarbonIndependent.org](https://www.carbonindependent.org/) - a good compromise between easy to use and detailed, with explanations of the data sources.
-
+* [Footprint Calculator](https://www.footprintcalculator.org/) - offers simple or detailed questions in a wizard format.
 
 ## Politics
 
 ### UK
 
+* [Climate Assembly UK](https://www.climateassembly.uk/) - a UK citizen's assembly that produced a [detailed report](https://www.climateassembly.uk/report/) of its findings on 10 Sept 2020.
 * [Declare a climate emergency](https://www.climateemergency.uk/) - UK councils that have passed regulation to declare the climate crisis an emergency.
 
 
